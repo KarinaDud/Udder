@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Milk_Closeup_Water_splash_White_background_571776_1280x1024.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
